@@ -3,6 +3,7 @@
 ## Overview
 The Decentralized Interplanetary Communication Network (DICN) is a blockchain-based system designed to facilitate secure and efficient communication across planetary bodies in the solar system. By leveraging smart contracts and distributed systems, DICN provides a resilient infrastructure for interplanetary data transmission.
 
+
 ## Core Components
 
 ### Relay Node Contract
